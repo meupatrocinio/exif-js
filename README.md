@@ -1,5 +1,7 @@
 # Exif.js
 
+    forked from Exif.js
+
 A JavaScript library for reading [EXIF meta data](https://en.wikipedia.org/wiki/Exchangeable_image_file_format) from image files.
 
 You can use it on images in the browser, either from an image or a file input element. Both EXIF and IPTC metadata are retrieved.
@@ -10,11 +12,11 @@ This package can also be used in AMD or CommonJS environments.
 ## Install
 Install `exif-js` through [NPM](https://www.npmjs.com/#getting-started):
 
-    npm install exif-js --save    
+    npm install mp-exif-js --save    
 
 Or [Bower](http://bower.io/):
 
-    bower install exif-js --save
+    bower install mp-exif-js --save
 
 Then add a `script` tag in your an HTML in the [best position](http://stackoverflow.com/questions/436411/where-is-the-best-place-to-put-script-tags-in-html-markup) referencing your local file.
 
