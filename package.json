@@ -1,6 +1,6 @@
 {
-  "name": "exif-js",
-  "version": "2.3.0",
+  "name": "mp-exif-js",
+  "version": "2.3.1",
   "description": "JavaScript library for reading EXIF image metadata",
   "main": "exif.js",
   "types": "exif.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exif-js/exif-js"
+    "url": "https://github.com/meupatrocinio/exif-js"
   },
   "keywords": [
     "exif"
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/exif-js/exif-js/issues"
+    "url": "https://github.com/meupatrocinio/exif-js/issues"
   },
-  "homepage": "https://github.com/exif-js/exif-js",
+  "homepage": "https://github.com/meupatrocinio/exif-js",
   "ignore": [
     "**/.*",
     "node_modules",
